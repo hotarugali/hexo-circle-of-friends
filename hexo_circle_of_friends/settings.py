@@ -76,7 +76,7 @@ FRIENPAGE_LINK = ["https://blog.ccknbc.cc/blogroll/"]
 ################################以下可以修改################################
 # leancloud post data outdate_clean
 # 过期文章清除（天）
-OUTDATE_CLEAN = 60
+OUTDATE_CLEAN = 2048
 
 
 # get links from settings
